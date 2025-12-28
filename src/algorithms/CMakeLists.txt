@@ -1,0 +1,4 @@
+# Algorithms module CMake configuration
+add_library(zen_algorithms INTERFACE)
+target_include_directories(zen_algorithms INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
+target_link_libraries(zen_algorithms INTERFACE zen_base zen_iterators)
