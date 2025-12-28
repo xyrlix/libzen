@@ -1,28 +1,6 @@
 # libzen
 
 <div align="center">
-  <svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
-    <!-- 背景圆圈 -->
-    <circle cx="75" cy="75" r="70" fill="#2c3e50"/>
-    
-    <!-- 内部核心 -->
-    <circle cx="75" cy="75" r="50" fill="#34495e"/>
-    
-    <!-- C++符号：C -->
-    <path d="M95,55 C95,40 80,30 65,30 C50,30 40,40 40,55 C40,70 50,80 65,80 C75,80 85,75 90,65 L90,75 L100,75 L100,45 L95,45 Z" fill="#e74c3c"/>
-    
-    <!-- C++符号：++ -->
-    <rect x="100" y="50" width="5" height="25" fill="#e74c3c"/>
-    <rect x="110" y="50" width="5" height="25" fill="#e74c3c"/>
-    
-    <!-- 禅意波纹 -->
-    <circle cx="75" cy="75" r="40" fill="none" stroke="#3498db" stroke-width="2" opacity="0.7"/>
-    <circle cx="75" cy="75" r="30" fill="none" stroke="#2ecc71" stroke-width="2" opacity="0.7"/>
-    <circle cx="75" cy="75" r="20" fill="none" stroke="#f39c12" stroke-width="2" opacity="0.7"/>
-    
-    <!-- 中心圆点 -->
-    <circle cx="75" cy="75" r="5" fill="#ecf0f1"/>
-  </svg>
   <h3>从零开始搭建的C++基础库</h3>
   <p>从语法细节→内存管理→工程化→性能优化，每一行代码知其然，知其所以然。</p>
   
